@@ -1,5 +1,5 @@
 # TITANIC_EDA
-🚢 # Exploring the Titanic Dataset: A Comprehensive EDA Project 🧩
+# 🚢 Exploring the Titanic Dataset: A Comprehensive EDA Project 🧩
 
 I am thrilled to share my latest data exploration project, where I dived deep into the Titanic dataset to uncover hidden insights and trends. Leveraging the power of Python, I employed libraries like Matplotlib and Seaborn for data visualization, making the data come alive with
 
